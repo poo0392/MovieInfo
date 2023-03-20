@@ -1,0 +1,10 @@
+//
+//  Config.xcconfig
+//  KinkreeTest
+//
+//  Created by Administrator on 17/03/23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+API_KEY = 306a33ca
